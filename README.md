@@ -14,4 +14,10 @@ This is a project on Deep Neural Network to Detect Jaundice Deseas
 # Algorithm 
   
 ***
-#### Siddaganga Institu
+### mini-Project Under
+#### Siddaganga Institute of Tehnology
+#### Tumkuru,
+## By
+    B Sagar
+    Yashvanth D
+    Ujwal Patil
