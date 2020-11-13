@@ -14,3 +14,4 @@ This is a project on Deep Neural Network to Detect Jaundice Deseas
 # Algorithm 
   
 ***
+#### Siddaganga Institu
